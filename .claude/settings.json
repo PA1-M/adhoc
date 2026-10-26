@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__e6focus",
+      "mcp__littlebird"
+    ]
+  }
+}
